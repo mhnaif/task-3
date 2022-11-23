@@ -26,4 +26,5 @@ public class Customer {
     private BigDecimal balance;
     @Column(name = "customer_type")
     private CustomerType customerType;
+    private String age;
 }
