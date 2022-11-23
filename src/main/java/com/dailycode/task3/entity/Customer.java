@@ -27,4 +27,5 @@ public class Customer {
     @Column(name = "customer_type")
     private CustomerType customerType;
     private String age;
+    private String phone;
 }
