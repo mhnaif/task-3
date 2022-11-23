@@ -28,4 +28,5 @@ public class Customer {
     private CustomerType customerType;
     private String age;
     private String phone;
+    private String phone2;
 }
